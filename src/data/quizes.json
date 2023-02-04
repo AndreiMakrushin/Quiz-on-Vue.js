@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.pinimg.com/originals/29/1b/aa/291baaad2996ea481f23ddb770fc98b4.jpg",
+        "name": "math",
+        "questions": [
+            {
+                "id": 1,
+                "text": "8/2(2+2)",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "16",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "8",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "24",
+                        "isCorrect": false
+                    }
+                ]
+            },{
+                "id": 2,
+                "text": "8/2(2+2)*30",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "16",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "8",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "24",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+     
+
+    {
+        "id": 2,
+        "img": "https://cdn.culture.ru/images/9aff5b4b-73ea-56eb-ab21-2a4f6fda241a",
+        "name": "country",
+        "questions": [
+            {
+                "id": 1,
+                "text": "sgsrgsgdsdgs",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "16",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "8",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "24",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    }
+]
